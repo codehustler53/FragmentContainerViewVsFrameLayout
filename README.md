@@ -5,6 +5,9 @@ To watch the video of FragmentContainerViewVsFrameLayout <br/>
 ![Youtube Video](http://i3.ytimg.com/vi/H_u3uI5ruG0/hqdefault.jpg)<br/>
 [Youtube](https://www.youtube.com/watch?v=H_u3uI5ruG0).<br/>
 
+Detailed blog on the same
+https://medium.com/@soni.karsh53/what-is-fragmentcontainerview-its-benefits-over-framelayout-8abe8598fcc5
+
 
 # TrueCallerClone
 To watch the video of Truecaller Clone <br/>
